@@ -56,4 +56,13 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+footer {
+  background-color: black;
+  color: #F05F44;
+  text-align: center;
+  border: 3px inset #F05F44;
+  -webkit-box-shadow: 1px 1px 1px 1px red;  
+  -moz-box-shadow:    1px 1px 1px 1px red;  
+  box-shadow:         1px 1px 1px 1px red;
+  }
